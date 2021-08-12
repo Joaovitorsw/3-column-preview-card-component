@@ -79,3 +79,18 @@ img {
   border-radius: 25px;
   border: none;
 }
+
+@media screen and (min-width: 600px) {
+  main {
+    justify-content: center;
+    flex-direction: row;
+  }
+  .sedans-card {
+    border-radius: 05px 0px 0px 05px;
+  }
+
+  .luxury-card {
+    border-radius: 0px 05px 05px 0px;
+    background-color: var(--tertiary-color);
+  }
+}

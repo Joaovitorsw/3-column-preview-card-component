@@ -23,6 +23,7 @@ main {
   display: flex;
   flex-direction: column;
   padding: 40px;
+  justify-content: space-between;
 }
 
 img {
@@ -86,9 +87,10 @@ img {
   color: white;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 600px) {
   main {
     flex-direction: row;
+    align-items: unset;
   }
   .sedans-card {
     border-radius: 05px 0px 0px 05px;

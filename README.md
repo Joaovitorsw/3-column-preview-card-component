@@ -7,7 +7,6 @@
 <div align="right">
   
   [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
-  [![English](https://www.countryflags.io/us/flat/32.png)](README-US.md)
   
 </div>
 
@@ -45,7 +44,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 
 |                             :computer:Desktop                             |                             :iphone: Mobile                              |
 | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <kbd><img src=".github/previews/desktop-preview.png" alt="Tablet"/></kbd> | <kbd><img src=".github/previews/mobile-preview.png" alt="Mobile"/></kbd> |
+| <kbd><img src=".github/previews/desktop-preview.jpg" alt="Tablet"/></kbd> | <kbd><img src=".github/previews/mobile-preview.jpg" alt="Mobile"/></kbd> |
 
 </div>
   
@@ -55,7 +54,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 
 <div align="center">
 
-Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) <img height="20px" src="images/favicon-32x32.png">
+Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) <img height="100%" src="images/favicon-32x32.png" style="margin-bottom: -10px" >
 
 ---
 
@@ -82,7 +81,7 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 | :page_facing_up: |
 | :--------------: |
 |Mobile First      |
-|CSS class|
+|CSS Class|
 |CSS Box Model|
 |Size Properties|
 |Flexbox|

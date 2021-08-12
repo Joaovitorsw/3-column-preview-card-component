@@ -72,5 +72,10 @@ img {
   border-radius: 0px 0px 15px 15px;
   background-color: var(--tertiary-color);
 }
-
-
+.learn-more {
+  margin-top: 10px;
+  max-width: 150px;
+  padding: 15px;
+  border-radius: 25px;
+  border: none;
+}

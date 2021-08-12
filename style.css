@@ -30,3 +30,47 @@ img {
   height: min-content;
   margin-bottom: 20px;
 }
+
+.sedans-title,
+.suvs-title,
+.luxury-title {
+  text-transform: uppercase;
+  color: var(--neutral-color-dark);
+  font-family: "Big Shoulders Display";
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.sedans-paragraph,
+.suvs-paragraph,
+.luxury-paragraph {
+  color: var(--neutral-color);
+  font-family: "Lexend Deca";
+  max-width: 200px;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.sedans-card button {
+  color: var(--primary-color);
+}
+.suvs-card button {
+  color: var(--secondary-color);
+}
+.luxury-card button {
+  color: var(--tertiary-color);
+}
+
+.sedans-card {
+  border-radius: 15px 15px 0px 0px;
+  background-color: var(--primary-color);
+}
+.suvs-card {
+  background-color: var(--secondary-color);
+}
+.luxury-card {
+  border-radius: 0px 0px 15px 15px;
+  background-color: var(--tertiary-color);
+}
+
+

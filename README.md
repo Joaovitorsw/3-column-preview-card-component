@@ -54,7 +54,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 
 <div align="center">
 
-Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) <img height="100%" src="images/favicon-32x32.png" style="margin-bottom: -10px" >
+Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) <img height="20px" src="images/favicon-32x32.png" >
 
 ---
 

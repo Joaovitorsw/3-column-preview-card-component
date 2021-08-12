@@ -93,4 +93,18 @@ img {
     border-radius: 0px 05px 05px 0px;
     background-color: var(--tertiary-color);
   }
+  .sedans-title,
+  .suvs-title,
+  .luxury-title {
+    font-size: 30px;
+  }
+  .sedans-paragraph,
+  .suvs-paragraph,
+  .luxury-paragraph {
+    line-height: 20px;
+  }
+
+  .learn-more {
+    margin-top: 50px;
+  }
 }

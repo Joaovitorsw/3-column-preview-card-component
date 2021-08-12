@@ -22,7 +22,7 @@ main {
 .luxury-card {
   display: flex;
   flex-direction: column;
-  padding: 50px;
+  padding: 40px;
 }
 
 img {

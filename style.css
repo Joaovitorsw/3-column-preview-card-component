@@ -24,6 +24,7 @@ main {
   flex-direction: column;
   padding: 40px;
   justify-content: space-between;
+  user-select: none;
 }
 
 img {

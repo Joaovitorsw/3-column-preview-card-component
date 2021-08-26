@@ -83,11 +83,14 @@ Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.fronten
 |    Mobile First    |
 |     HTML Class     |
 |     CSS Class      |
+|      Position      |
 |  Pseudo Selectors  |
 |   CSS Box Model    |
 |  Size Properties   |
 |      Flexbox       |
 |     MediaQuery     |
+|    Atomic Comit    |
+
 
 
 </div>
